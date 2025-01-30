@@ -19,7 +19,7 @@ dotnet start
 
 This repo is _not regularly monitored_.
 
-For any questions contact https://vizzon.co.uk/contact/
+For any questions contact https://vizsphere.com/contact/
 
-For more information about ASP.NET, check out this blog. https://vizzon.co.uk/what-is-net-aspire/ If you’re looking to learn how to set up and deploy an application using .NET Aspire, you can find a detailed guide here. https://vizzon.co.uk/setup-deploy-dotnet-aspire-application/
+For more information about ASP.NET, check out this blog. https://vizsphere.com/what-is-net-aspire/ If you’re looking to learn how to set up and deploy an application using .NET Aspire, you can find a detailed guide here. https://vizzon.co.uk/setup-deploy-dotnet-aspire-application/
 
